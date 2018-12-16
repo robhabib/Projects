@@ -1,0 +1,473 @@
+,movie,year,imdb,metascore,votes
+0,Gladiator,2000,8.5,67,1171537
+1,Memento,2000,8.5,80,1003870
+2,Snatch,2000,8.3,55,700151
+3,Requiem for a Dream,2000,8.3,68,680651
+4,X-Men,2000,7.4,64,521282
+5,Cast Away,2000,7.8,73,459574
+6,American Psycho,2000,7.6,64,418152
+7,Unbreakable,2000,7.3,62,310092
+8,Meet the Parents,2000,7.0,73,288024
+9,Mission: Impossible II,2000,6.1,59,282885
+10,"O Brother, Where Art Thou?",2000,7.8,69,257695
+11,Gone in Sixty Seconds,2000,6.5,35,241214
+12,"Crouching Tiger, Hidden Dragon",2000,7.9,93,236236
+13,The Patriot,2000,7.2,63,232267
+14,Almost Famous,2000,7.9,90,230807
+15,Pitch Black,2000,7.1,49,211066
+16,Scary Movie,2000,6.2,48,210398
+17,"Me, Myself & Irene",2000,6.6,49,205908
+18,Final Destination,2000,6.7,36,205725
+19,The Beach,2000,6.6,43,203207
+20,Amores Perros,2000,8.1,83,202696
+21,Traffic,2000,7.6,86,183723
+22,Remember the Titans,2000,7.8,48,180563
+23,What Women Want,2000,6.4,47,176790
+24,How the Grinch Stole Christmas,2000,6.1,46,173809
+25,Chocolat,2000,7.3,64,165604
+26,Miss Congeniality,2000,6.2,43,163097
+27,Charlie's Angels,2000,5.5,52,159999
+28,Chicken Run,2000,7.0,88,159683
+29,Battle Royale,2000,7.7,81,156480
+30,High Fidelity,2000,7.5,79,156180
+31,The Emperor's New Groove,2000,7.3,70,154604
+32,Erin Brockovich,2000,7.3,73,154336
+33,Road Trip,2000,6.5,55,146082
+34,The Perfect Storm,2000,6.4,59,144603
+35,"Dude, Where's My Car?",2000,5.5,30,126833
+36,Hollow Man,2000,5.7,24,112836
+37,Scream 3,2000,5.6,56,111822
+38,Billy Elliot,2000,7.7,74,111422
+39,Shanghai Noon,2000,6.6,77,109291
+40,The 6th Day,2000,5.9,49,108761
+41,What Lies Beneath,2000,6.6,51,108363
+42,Pay It Forward,2000,7.2,40,105689
+43,In the Mood for Love,2000,8.1,85,101374
+44,The Whole Nine Yards,2000,6.7,47,100524
+45,Coyote Ugly,2000,5.6,27,99254
+46,Men of Honor,2000,7.2,56,99201
+47,The Family Man,2000,6.7,42,95185
+48,Frequency,2000,7.4,67,92711
+49,Gladiator,2000,8.5,67,1171537
+50,Memento,2000,8.5,80,1003870
+51,Snatch,2000,8.3,55,700151
+52,Requiem for a Dream,2000,8.3,68,680651
+53,X-Men,2000,7.4,64,521282
+54,Cast Away,2000,7.8,73,459574
+55,American Psycho,2000,7.6,64,418152
+56,Unbreakable,2000,7.3,62,310092
+57,Meet the Parents,2000,7.0,73,288024
+58,Mission: Impossible II,2000,6.1,59,282885
+59,"O Brother, Where Art Thou?",2000,7.8,69,257695
+60,Gone in Sixty Seconds,2000,6.5,35,241214
+61,"Crouching Tiger, Hidden Dragon",2000,7.9,93,236236
+62,The Patriot,2000,7.2,63,232267
+63,Almost Famous,2000,7.9,90,230807
+64,Pitch Black,2000,7.1,49,211066
+65,Scary Movie,2000,6.2,48,210398
+66,"Me, Myself & Irene",2000,6.6,49,205908
+67,Final Destination,2000,6.7,36,205725
+68,The Beach,2000,6.6,43,203207
+69,Amores Perros,2000,8.1,83,202696
+70,Traffic,2000,7.6,86,183723
+71,Remember the Titans,2000,7.8,48,180563
+72,What Women Want,2000,6.4,47,176790
+73,How the Grinch Stole Christmas,2000,6.1,46,173809
+74,Chocolat,2000,7.3,64,165604
+75,Miss Congeniality,2000,6.2,43,163097
+76,Charlie's Angels,2000,5.5,52,159999
+77,Chicken Run,2000,7.0,88,159683
+78,Battle Royale,2000,7.7,81,156480
+79,High Fidelity,2000,7.5,79,156180
+80,The Emperor's New Groove,2000,7.3,70,154604
+81,Erin Brockovich,2000,7.3,73,154336
+82,Road Trip,2000,6.5,55,146082
+83,The Perfect Storm,2000,6.4,59,144603
+84,"Dude, Where's My Car?",2000,5.5,30,126833
+85,Hollow Man,2000,5.7,24,112836
+86,Scream 3,2000,5.6,56,111822
+87,Billy Elliot,2000,7.7,74,111422
+88,Shanghai Noon,2000,6.6,77,109291
+89,The 6th Day,2000,5.9,49,108761
+90,What Lies Beneath,2000,6.6,51,108363
+91,Pay It Forward,2000,7.2,40,105689
+92,In the Mood for Love,2000,8.1,85,101374
+93,The Whole Nine Yards,2000,6.7,47,100524
+94,Coyote Ugly,2000,5.6,27,99254
+95,Men of Honor,2000,7.2,56,99201
+96,The Family Man,2000,6.7,42,95185
+97,Frequency,2000,7.4,67,92711
+98,Gladiator,2000,8.5,67,1171537
+99,Memento,2000,8.5,80,1003870
+100,Snatch,2000,8.3,55,700151
+101,Requiem for a Dream,2000,8.3,68,680651
+102,X-Men,2000,7.4,64,521282
+103,Cast Away,2000,7.8,73,459574
+104,American Psycho,2000,7.6,64,418152
+105,Unbreakable,2000,7.3,62,310092
+106,Meet the Parents,2000,7.0,73,288024
+107,Mission: Impossible II,2000,6.1,59,282885
+108,"O Brother, Where Art Thou?",2000,7.8,69,257695
+109,Gone in Sixty Seconds,2000,6.5,35,241214
+110,"Crouching Tiger, Hidden Dragon",2000,7.9,93,236236
+111,The Patriot,2000,7.2,63,232267
+112,Almost Famous,2000,7.9,90,230807
+113,Pitch Black,2000,7.1,49,211066
+114,Scary Movie,2000,6.2,48,210398
+115,"Me, Myself & Irene",2000,6.6,49,205908
+116,Final Destination,2000,6.7,36,205725
+117,The Beach,2000,6.6,43,203207
+118,Amores Perros,2000,8.1,83,202696
+119,Traffic,2000,7.6,86,183723
+120,Remember the Titans,2000,7.8,48,180563
+121,What Women Want,2000,6.4,47,176790
+122,How the Grinch Stole Christmas,2000,6.1,46,173809
+123,Chocolat,2000,7.3,64,165604
+124,Miss Congeniality,2000,6.2,43,163097
+125,Charlie's Angels,2000,5.5,52,159999
+126,Chicken Run,2000,7.0,88,159683
+127,Battle Royale,2000,7.7,81,156480
+128,High Fidelity,2000,7.5,79,156180
+129,The Emperor's New Groove,2000,7.3,70,154604
+130,Erin Brockovich,2000,7.3,73,154336
+131,Road Trip,2000,6.5,55,146082
+132,The Perfect Storm,2000,6.4,59,144603
+133,"Dude, Where's My Car?",2000,5.5,30,126833
+134,Hollow Man,2000,5.7,24,112836
+135,Scream 3,2000,5.6,56,111822
+136,Billy Elliot,2000,7.7,74,111422
+137,Shanghai Noon,2000,6.6,77,109291
+138,The 6th Day,2000,5.9,49,108761
+139,What Lies Beneath,2000,6.6,51,108363
+140,Pay It Forward,2000,7.2,40,105689
+141,In the Mood for Love,2000,8.1,85,101374
+142,The Whole Nine Yards,2000,6.7,47,100524
+143,Coyote Ugly,2000,5.6,27,99254
+144,Men of Honor,2000,7.2,56,99201
+145,The Family Man,2000,6.7,42,95185
+146,Frequency,2000,7.4,67,92711
+147,Gladiator,2000,8.5,67,1171537
+148,Memento,2000,8.5,80,1003870
+149,Snatch,2000,8.3,55,700151
+150,Requiem for a Dream,2000,8.3,68,680651
+151,X-Men,2000,7.4,64,521282
+152,Cast Away,2000,7.8,73,459574
+153,American Psycho,2000,7.6,64,418152
+154,Unbreakable,2000,7.3,62,310092
+155,Meet the Parents,2000,7.0,73,288024
+156,Mission: Impossible II,2000,6.1,59,282885
+157,"O Brother, Where Art Thou?",2000,7.8,69,257695
+158,Gone in Sixty Seconds,2000,6.5,35,241214
+159,"Crouching Tiger, Hidden Dragon",2000,7.9,93,236236
+160,The Patriot,2000,7.2,63,232267
+161,Almost Famous,2000,7.9,90,230807
+162,Pitch Black,2000,7.1,49,211066
+163,Scary Movie,2000,6.2,48,210398
+164,"Me, Myself & Irene",2000,6.6,49,205908
+165,Final Destination,2000,6.7,36,205725
+166,The Beach,2000,6.6,43,203207
+167,Amores Perros,2000,8.1,83,202696
+168,Traffic,2000,7.6,86,183723
+169,Remember the Titans,2000,7.8,48,180563
+170,What Women Want,2000,6.4,47,176790
+171,How the Grinch Stole Christmas,2000,6.1,46,173809
+172,Chocolat,2000,7.3,64,165604
+173,Miss Congeniality,2000,6.2,43,163097
+174,Charlie's Angels,2000,5.5,52,159999
+175,Chicken Run,2000,7.0,88,159683
+176,Battle Royale,2000,7.7,81,156480
+177,High Fidelity,2000,7.5,79,156180
+178,The Emperor's New Groove,2000,7.3,70,154604
+179,Erin Brockovich,2000,7.3,73,154336
+180,Road Trip,2000,6.5,55,146082
+181,The Perfect Storm,2000,6.4,59,144603
+182,"Dude, Where's My Car?",2000,5.5,30,126833
+183,Hollow Man,2000,5.7,24,112836
+184,Scream 3,2000,5.6,56,111822
+185,Billy Elliot,2000,7.7,74,111422
+186,Shanghai Noon,2000,6.6,77,109291
+187,The 6th Day,2000,5.9,49,108761
+188,What Lies Beneath,2000,6.6,51,108363
+189,Pay It Forward,2000,7.2,40,105689
+190,In the Mood for Love,2000,8.1,85,101374
+191,The Whole Nine Yards,2000,6.7,47,100524
+192,Coyote Ugly,2000,5.6,27,99254
+193,Men of Honor,2000,7.2,56,99201
+194,The Family Man,2000,6.7,42,95185
+195,Frequency,2000,7.4,67,92711
+196,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,92,1458934
+197,A Beautiful Mind,2001,8.2,72,746461
+198,"Monsters, Inc.",2001,8.1,78,713684
+199,Donnie Darko,2001,8.1,88,681869
+200,Amélie,2001,8.3,69,634388
+201,Harry Potter and the Sorcerer's Stone,2001,7.6,64,548525
+202,Shrek,2001,7.9,84,542429
+203,Spirited Away,2001,8.6,96,533996
+204,Ocean's Eleven,2001,7.8,74,463438
+205,Training Day,2001,7.7,69,348194
+206,Black Hawk Down,2001,7.7,74,331298
+207,The Fast and the Furious,2001,6.8,58,312264
+208,The Others,2001,7.6,74,307179
+209,Pearl Harbor,2001,6.1,44,287395
+210,Mulholland Drive,2001,8.0,83,283426
+211,The Mummy Returns,2001,6.3,48,277723
+212,A.I. Artificial Intelligence,2001,7.1,65,269451
+213,Jurassic Park III,2001,5.9,42,263153
+214,Moulin Rouge!,2001,7.6,66,247578
+215,The Royal Tenenbaums,2001,7.6,76,240258
+216,Hannibal,2001,6.8,57,232070
+217,Vanilla Sky,2001,6.9,45,229916
+218,Zoolander,2001,6.6,61,226431
+219,American Pie 2,2001,6.4,43,220909
+220,Blow,2001,7.6,52,219939
+221,Enemy at the Gates,2001,7.6,53,218769
+222,Bridget Jones's Diary,2001,6.7,66,200509
+223,Planet of the Apes,2001,5.7,50,198585
+224,Lara Croft: Tomb Raider,2001,5.8,33,181544
+225,Rush Hour 2,2001,6.6,48,181190
+226,Swordfish,2001,6.5,32,166976
+227,K-PAX,2001,7.4,49,164921
+228,Legally Blonde,2001,6.3,59,157932
+229,A Knight's Tale,2001,6.9,56,154080
+230,Jay and Silent Bob Strike Back,2001,6.9,51,138832
+231,From Hell,2001,6.8,54,137268
+232,Scary Movie 2,2001,5.3,29,135375
+233,I Am Sam,2001,7.6,28,133791
+234,Spy Game,2001,7.1,63,132967
+235,Shallow Hal,2001,5.9,48,119221
+236,The Princess Diaries,2001,6.3,52,112614
+237,The Score,2001,6.8,71,111400
+238,Evolution,2001,6.1,40,110948
+239,Ghost World,2001,7.4,88,105441
+240,Y Tu Mamá También,2001,7.7,88,103711
+241,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,92,1458934
+242,A Beautiful Mind,2001,8.2,72,746461
+243,"Monsters, Inc.",2001,8.1,78,713684
+244,Donnie Darko,2001,8.1,88,681869
+245,Amélie,2001,8.3,69,634388
+246,Harry Potter and the Sorcerer's Stone,2001,7.6,64,548525
+247,Shrek,2001,7.9,84,542429
+248,Spirited Away,2001,8.6,96,533996
+249,Ocean's Eleven,2001,7.8,74,463438
+250,Training Day,2001,7.7,69,348194
+251,Black Hawk Down,2001,7.7,74,331298
+252,The Fast and the Furious,2001,6.8,58,312264
+253,The Others,2001,7.6,74,307179
+254,Pearl Harbor,2001,6.1,44,287395
+255,Mulholland Drive,2001,8.0,83,283426
+256,The Mummy Returns,2001,6.3,48,277723
+257,A.I. Artificial Intelligence,2001,7.1,65,269451
+258,Jurassic Park III,2001,5.9,42,263153
+259,Moulin Rouge!,2001,7.6,66,247578
+260,The Royal Tenenbaums,2001,7.6,76,240258
+261,Hannibal,2001,6.8,57,232070
+262,Vanilla Sky,2001,6.9,45,229916
+263,Zoolander,2001,6.6,61,226431
+264,American Pie 2,2001,6.4,43,220909
+265,Blow,2001,7.6,52,219939
+266,Enemy at the Gates,2001,7.6,53,218769
+267,Bridget Jones's Diary,2001,6.7,66,200509
+268,Planet of the Apes,2001,5.7,50,198585
+269,Lara Croft: Tomb Raider,2001,5.8,33,181544
+270,Rush Hour 2,2001,6.6,48,181190
+271,Swordfish,2001,6.5,32,166976
+272,K-PAX,2001,7.4,49,164921
+273,Legally Blonde,2001,6.3,59,157932
+274,A Knight's Tale,2001,6.9,56,154080
+275,Jay and Silent Bob Strike Back,2001,6.9,51,138832
+276,From Hell,2001,6.8,54,137268
+277,Scary Movie 2,2001,5.3,29,135375
+278,I Am Sam,2001,7.6,28,133791
+279,Spy Game,2001,7.1,63,132967
+280,Shallow Hal,2001,5.9,48,119221
+281,The Princess Diaries,2001,6.3,52,112614
+282,The Score,2001,6.8,71,111400
+283,Evolution,2001,6.1,40,110948
+284,Ghost World,2001,7.4,88,105441
+285,Y Tu Mamá También,2001,7.7,88,103711
+286,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,92,1458934
+287,A Beautiful Mind,2001,8.2,72,746461
+288,"Monsters, Inc.",2001,8.1,78,713684
+289,Donnie Darko,2001,8.1,88,681869
+290,Amélie,2001,8.3,69,634388
+291,Harry Potter and the Sorcerer's Stone,2001,7.6,64,548525
+292,Shrek,2001,7.9,84,542429
+293,Spirited Away,2001,8.6,96,533996
+294,Ocean's Eleven,2001,7.8,74,463438
+295,Training Day,2001,7.7,69,348194
+296,Black Hawk Down,2001,7.7,74,331298
+297,The Fast and the Furious,2001,6.8,58,312264
+298,The Others,2001,7.6,74,307179
+299,Pearl Harbor,2001,6.1,44,287395
+300,Mulholland Drive,2001,8.0,83,283426
+301,The Mummy Returns,2001,6.3,48,277723
+302,A.I. Artificial Intelligence,2001,7.1,65,269451
+303,Jurassic Park III,2001,5.9,42,263153
+304,Moulin Rouge!,2001,7.6,66,247578
+305,The Royal Tenenbaums,2001,7.6,76,240258
+306,Hannibal,2001,6.8,57,232070
+307,Vanilla Sky,2001,6.9,45,229916
+308,Zoolander,2001,6.6,61,226431
+309,American Pie 2,2001,6.4,43,220909
+310,Blow,2001,7.6,52,219939
+311,Enemy at the Gates,2001,7.6,53,218769
+312,Bridget Jones's Diary,2001,6.7,66,200509
+313,Planet of the Apes,2001,5.7,50,198585
+314,Lara Croft: Tomb Raider,2001,5.8,33,181544
+315,Rush Hour 2,2001,6.6,48,181190
+316,Swordfish,2001,6.5,32,166976
+317,K-PAX,2001,7.4,49,164921
+318,Legally Blonde,2001,6.3,59,157932
+319,A Knight's Tale,2001,6.9,56,154080
+320,Jay and Silent Bob Strike Back,2001,6.9,51,138832
+321,From Hell,2001,6.8,54,137268
+322,Scary Movie 2,2001,5.3,29,135375
+323,I Am Sam,2001,7.6,28,133791
+324,Spy Game,2001,7.1,63,132967
+325,Shallow Hal,2001,5.9,48,119221
+326,The Princess Diaries,2001,6.3,52,112614
+327,The Score,2001,6.8,71,111400
+328,Evolution,2001,6.1,40,110948
+329,Ghost World,2001,7.4,88,105441
+330,Y Tu Mamá También,2001,7.7,88,103711
+331,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,92,1458934
+332,A Beautiful Mind,2001,8.2,72,746461
+333,"Monsters, Inc.",2001,8.1,78,713684
+334,Donnie Darko,2001,8.1,88,681869
+335,Amélie,2001,8.3,69,634388
+336,Harry Potter and the Sorcerer's Stone,2001,7.6,64,548525
+337,Shrek,2001,7.9,84,542429
+338,Spirited Away,2001,8.6,96,533996
+339,Ocean's Eleven,2001,7.8,74,463438
+340,Training Day,2001,7.7,69,348194
+341,Black Hawk Down,2001,7.7,74,331298
+342,The Fast and the Furious,2001,6.8,58,312264
+343,The Others,2001,7.6,74,307179
+344,Pearl Harbor,2001,6.1,44,287395
+345,Mulholland Drive,2001,8.0,83,283426
+346,The Mummy Returns,2001,6.3,48,277723
+347,A.I. Artificial Intelligence,2001,7.1,65,269451
+348,Jurassic Park III,2001,5.9,42,263153
+349,Moulin Rouge!,2001,7.6,66,247578
+350,The Royal Tenenbaums,2001,7.6,76,240258
+351,Hannibal,2001,6.8,57,232070
+352,Vanilla Sky,2001,6.9,45,229916
+353,Zoolander,2001,6.6,61,226431
+354,American Pie 2,2001,6.4,43,220909
+355,Blow,2001,7.6,52,219939
+356,Enemy at the Gates,2001,7.6,53,218769
+357,Bridget Jones's Diary,2001,6.7,66,200509
+358,Planet of the Apes,2001,5.7,50,198585
+359,Lara Croft: Tomb Raider,2001,5.8,33,181544
+360,Rush Hour 2,2001,6.6,48,181190
+361,Swordfish,2001,6.5,32,166976
+362,K-PAX,2001,7.4,49,164921
+363,Legally Blonde,2001,6.3,59,157932
+364,A Knight's Tale,2001,6.9,56,154080
+365,Jay and Silent Bob Strike Back,2001,6.9,51,138832
+366,From Hell,2001,6.8,54,137268
+367,Scary Movie 2,2001,5.3,29,135375
+368,I Am Sam,2001,7.6,28,133791
+369,Spy Game,2001,7.1,63,132967
+370,Shallow Hal,2001,5.9,48,119221
+371,The Princess Diaries,2001,6.3,52,112614
+372,The Score,2001,6.8,71,111400
+373,Evolution,2001,6.1,40,110948
+374,Ghost World,2001,7.4,88,105441
+375,Y Tu Mamá También,2001,7.7,88,103711
+376,The Lord of the Rings: The Two Towers,2002,8.7,87,1303934
+377,Catch Me If You Can,2002,8.1,75,687213
+378,City of God,2002,8.6,79,625749
+379,Spider-Man,2002,7.3,73,622618
+380,The Pianist,2002,8.5,85,616511
+381,Star Wars: Episode II - Attack of the Clones,2002,6.6,54,556495
+382,Harry Potter and the Chamber of Secrets,2002,7.4,63,473585
+383,The Bourne Identity,2002,7.9,68,465357
+384,Minority Report,2002,7.7,80,458347
+385,Ice Age,2002,7.5,60,386257
+386,Gangs of New York,2002,7.5,72,362530
+387,28 Days Later...,2002,7.6,73,338563
+388,Signs,2002,6.7,59,306606
+389,Men in Black II,2002,6.1,49,302732
+390,The Ring,2002,7.1,57,291567
+391,Equilibrium,2002,7.5,33,290847
+392,The Transporter,2002,6.8,51,264274
+393,Insomnia,2002,7.2,78,248582
+394,Phone Booth,2002,7.1,56,232094
+395,Panic Room,2002,6.8,65,231890
+396,Red Dragon,2002,7.2,60,226944
+397,Resident Evil,2002,6.7,33,226867
+398,Road to Perdition,2002,7.7,72,224267
+399,8 Mile,2002,7.1,77,222049
+400,Chicago,2002,7.2,82,196686
+401,Die Another Day,2002,6.1,56,187767
+402,A Walk to Remember,2002,7.4,35,184348
+403,Blade II,2002,6.7,52,181904
+404,Austin Powers in Goldmember,2002,6.2,62,180099
+405,Hero,2002,7.9,85,163311
+406,xXx,2002,5.9,48,162782
+407,Adaptation.,2002,7.7,83,162214
+408,25th Hour,2002,7.7,67,160887
+409,About a Boy,2002,7.1,75,157347
+410,Lilo & Stitch,2002,7.2,73,144341
+411,Bowling for Columbine,2002,8.0,72,133085
+412,Punch-Drunk Love,2002,7.3,78,128480
+413,Mr. Deeds,2002,5.8,24,124156
+414,The Scorpion King,2002,5.5,45,119460
+415,We Were Soldiers,2002,7.2,65,118164
+416,Reign of Fire,2002,6.2,39,117610
+417,The Count of Monte Cristo,2002,7.8,61,117519
+418,About Schmidt,2002,7.2,85,115830
+419,The Hours,2002,7.6,80,114340
+420,John Q,2002,7.1,30,112691
+421,My Big Fat Greek Wedding,2002,6.6,62,111905
+422,The Time Machine,2002,5.9,42,111628
+423,Infernal Affairs,2002,8.1,75,109600
+424,The Lord of the Rings: The Two Towers,2002,8.7,87,1303934
+425,Catch Me If You Can,2002,8.1,75,687213
+426,City of God,2002,8.6,79,625749
+427,Spider-Man,2002,7.3,73,622618
+428,The Pianist,2002,8.5,85,616511
+429,Star Wars: Episode II - Attack of the Clones,2002,6.6,54,556495
+430,Harry Potter and the Chamber of Secrets,2002,7.4,63,473585
+431,The Bourne Identity,2002,7.9,68,465357
+432,Minority Report,2002,7.7,80,458347
+433,Ice Age,2002,7.5,60,386257
+434,Gangs of New York,2002,7.5,72,362530
+435,28 Days Later...,2002,7.6,73,338563
+436,Signs,2002,6.7,59,306606
+437,Men in Black II,2002,6.1,49,302732
+438,The Ring,2002,7.1,57,291567
+439,Equilibrium,2002,7.5,33,290847
+440,The Transporter,2002,6.8,51,264274
+441,Insomnia,2002,7.2,78,248582
+442,Phone Booth,2002,7.1,56,232094
+443,Panic Room,2002,6.8,65,231890
+444,Red Dragon,2002,7.2,60,226944
+445,Resident Evil,2002,6.7,33,226867
+446,Road to Perdition,2002,7.7,72,224267
+447,8 Mile,2002,7.1,77,222049
+448,Chicago,2002,7.2,82,196686
+449,Die Another Day,2002,6.1,56,187767
+450,A Walk to Remember,2002,7.4,35,184348
+451,Blade II,2002,6.7,52,181904
+452,Austin Powers in Goldmember,2002,6.2,62,180099
+453,Hero,2002,7.9,85,163311
+454,xXx,2002,5.9,48,162782
+455,Adaptation.,2002,7.7,83,162214
+456,25th Hour,2002,7.7,67,160887
+457,About a Boy,2002,7.1,75,157347
+458,Lilo & Stitch,2002,7.2,73,144341
+459,Bowling for Columbine,2002,8.0,72,133085
+460,Punch-Drunk Love,2002,7.3,78,128480
+461,Mr. Deeds,2002,5.8,24,124156
+462,The Scorpion King,2002,5.5,45,119460
+463,We Were Soldiers,2002,7.2,65,118164
+464,Reign of Fire,2002,6.2,39,117610
+465,The Count of Monte Cristo,2002,7.8,61,117519
+466,About Schmidt,2002,7.2,85,115830
+467,The Hours,2002,7.6,80,114340
+468,John Q,2002,7.1,30,112691
+469,My Big Fat Greek Wedding,2002,6.6,62,111905
+470,The Time Machine,2002,5.9,42,111628
+471,Infernal Affairs,2002,8.1,75,109600
